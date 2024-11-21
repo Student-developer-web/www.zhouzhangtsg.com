@@ -1,0 +1,31 @@
+#header{
+	padding: 10px;
+	font-family: '华文行楷';
+	font-size: 30px;
+	text-align: center;
+	background-image: url("resources/images/header-background.png");
+	background-size: cover;
+}
+#control{
+	background-color: aqua;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+}
+#attention{
+	margin: 5px;
+	padding: 10px;
+	background-image: url("resources/images/attention-background.png");
+	border-style: solid;
+	border-width: 3px 3px 3px 7px;
+	border-color: black black black red;
+}
+#footer{
+	background-color: darkblue;
+	padding: 10px;
+	float: bottom;
+	text-align: center;
+}
+#footer a,#footer p{
+	color: white;
+}
